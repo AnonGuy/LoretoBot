@@ -14,7 +14,7 @@ import custom_out
 import sys
 sys.path.append('/home/pi/LoretoBot')
 # For importing modules from another directory:
-import electronic_output
+import pitronics
 # Sometimes I may connect an LCD to test the electronic capabilities of the RPi.
 # This module contains various functions for my electronic components
 
