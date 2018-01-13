@@ -12,7 +12,7 @@ import custom_out
 # My own module for sending various forms of external communication
 # e.g. SMS, email and more coming soon!
 import sys
-sys.path.append('/home/pi/LoretoBot')
+sys.path.append('/home/pi/Desktop/loretobot')
 # For importing modules from another directory:
 import pitronics
 # Sometimes I may connect an LCD to test the electronic capabilities of the RPi.
